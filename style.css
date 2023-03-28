@@ -104,7 +104,7 @@ body {
   justify-content: center;
 }
 
-.box:hover {
+.box a:hover {
   transform: translateX(2ch);
   transition-duration: 0.2s;
   transform-origin: right;
