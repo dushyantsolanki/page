@@ -8,7 +8,7 @@ body {
   width: 100vw;
   display: grid;
   place-items: center;
-  background-image: url("./img/pxfuel444.jpg");
+  background-color:rgb(252, 224, 188);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
